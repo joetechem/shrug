@@ -1,7 +1,7 @@
-# shrug  
+# Shrugs
 An open-source repository for discovering and sharing shrugs in text format.  
 
-**shrug.txt for working list.**  
+**go to --> shrug.txt for working list.**  
 
 ## Entries  
 
