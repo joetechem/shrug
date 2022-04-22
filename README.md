@@ -7,13 +7,18 @@ An open-source repository for discovering and sharing shrugs in text format.
 
 ### Default Shrug  
 
+```powershell
 ¯\_(ツ)_/¯
-
+```
 
 ### Questionable Shrug  
 
+```
 ┻━┻︵ \(°□°)/ ︵ ┻━┻
+```  
 
 ### Wide-eyed Shrug
 
+```
 ¯\(◉‿◉)/¯
+```  
